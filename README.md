@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Mishumo-Troy-Lumadi
+- 👀 I’m interested in Android and Web Development
+- 🌱 I’m currently a Unviversity doing my Postgraduate Diploma in IT at the Vaal University of technology.
