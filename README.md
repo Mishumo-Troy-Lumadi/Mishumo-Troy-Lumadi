@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mishumo-Troy-Lumadi
-- 👀 I’m interested in Android and Web Development
+- 👀 I’m interested in Moblie and Web Development
 - 🌱 I’m currently doing my Postgraduate Diploma in Information Technology at the Vaal University of Technology.
 
 ## Qualifications
