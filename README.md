@@ -5,7 +5,7 @@
 ## Qualifications
 
 - Post Graduate Diploma Information Technology, Vaal University of Technology, Enrolled
-- Addvanced Diploma Information Technology, Vaal University of Technology, 2021 (Cum Laude)
+- Advanced Diploma Information Technology, Vaal University of Technology, 2021 (Cum Laude)
 - Diploma Information Technology, Vaal University of Technology, 2020, (Cum Laude)
 
 ## Certifications
