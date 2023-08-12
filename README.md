@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Mishumo-Troy-Lumadi
-- 👀 I’m interested in Moblie and Web Development
-- 🌱 I’m currently doing my Postgraduate Diploma in Information Technology at the Vaal University of Technology.
+- 👀 I’m a Full stack developer 
 
 ## Qualifications
 
-- Post Graduate Diploma Information Technology, Vaal University of Technology, Enrolled
+- Post Graduate Diploma Information Technology, Vaal University of Technology, 2023
 - Advanced Diploma Information Technology, Vaal University of Technology, 2021 (Cum Laude)
 - Diploma Information Technology, Vaal University of Technology, 2020, (Cum Laude)
 
